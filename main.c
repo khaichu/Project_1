@@ -5,3 +5,8 @@ int main(void)
   for (;;){  }
   return;
 }
+
+int addNumbers(int a,int b)
+{
+  return a+b;
+}
