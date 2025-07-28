@@ -26,3 +26,7 @@ int newBranch4(void)
 
 }
 
+void my_new_branch_code(void)
+{
+	printf("my new branch code");
+}
