@@ -6,28 +6,10 @@ int main(void)
   return;
 }
 
-int addNumbers(int a,int b)
-{
-  return a+b;
-}
-
-int multiNumbers(int a,int b)
-{
-  return a*b;
-}
-
 class makeMachine {
 int part_no;
 int id;
 void runActuator(void)
 {
   
-}
-
-class pushBranch{
-void makeCodeForBranch(void)
-{
-
-}
-
 }
