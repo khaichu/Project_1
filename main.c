@@ -30,3 +30,8 @@ void my_new_branch_code(void)
 {
 	printf("my new branch code");
 }
+
+void change_on_branch_1(void)
+{
+	printf("branch 1 change");
+}
