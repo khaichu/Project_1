@@ -15,3 +15,8 @@ int multiNumbers(int a,int b)
 {
   return a*b;
 }
+
+int newBranch4(void)
+{
+
+}
