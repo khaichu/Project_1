@@ -13,3 +13,12 @@ void runActuator(void)
 {
   
 }
+
+class newBranchClass{
+int id;
+void action(void)
+{
+
+}
+
+}
