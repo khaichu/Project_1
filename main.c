@@ -21,4 +21,8 @@ void action(void)
 
 }
 
+int newBranch4(void)
+{
+
 }
+
