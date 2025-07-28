@@ -15,3 +15,13 @@ int multiNumbers(int a,int b)
 {
   return a*b;
 }
+
+class makeMachine {
+int part_no;
+int id;
+void runActuator(void)
+{
+  
+}
+
+}
